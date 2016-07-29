@@ -1,0 +1,10 @@
+{
+    "id": "markj",
+    "uid": "1000",
+    "groups": [ "core-users" ],
+    "shell": "\/bin\/bash",
+    "comment": "Mark John Buenconsejo",
+    "ssh_keys": [
+        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDNolDYKgEjLmY9Ku0eDqssVcibTa+KGczCaWLMAT7fwFUFYTBqKYnOxjkyQ63Du4NKvOh9sC+72aXGcKcaxuLdz+EbnDRg8MqkgXr0ObffZ6Ve0LPTWQmcEve63tXQOopq/keuW5yKIRvOlt71lLn0VjOvoVSalN4+3jg0fTA7683mRD5wk9JFt1VLaHCLcXi2Jf8rFF01vXGoGZ4J2ZBJHuJUHpsmNtlxpKLS0WACZXnukh2C5p45UP1eEnBf7C/Csyn4TQdDsI+TSUGL4LJH3cW6UxXaXneQdWbjHaZr7pkPmqmarjH/uT4WIEmzig2B1omJeOrHTx7ZXJYhUDgd markj@mark-retina2.local"
+    ]
+}

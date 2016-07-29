@@ -1,0 +1,15 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+source 'https://supermarket.chef.io'
+
+metadata
+
+cookbook 'users'
+cookbook 'build-essential'
+cookbook 'apt'
+cookbook 'sudo'
+cookbook 'java'
+cookbook 'nodejs'
+cookbook 'simple-scala-sbt'
+cookbook 'poise-python'
