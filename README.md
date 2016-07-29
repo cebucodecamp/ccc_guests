@@ -21,6 +21,11 @@ First clone this into your local machine. You'll need a working ruby +
 rvm installation to use this. I hard-coded it to use ruby-2.2.4. You
 can easily install this binary using rvm.
 
+You will also need to install Vagrant. Go to their website to
+download:
+
+  http://vagrantup.com/
+
 After clone, do a bundle:
 
 ```
@@ -64,6 +69,10 @@ guest user, then you can login normally via ssh, as:
 ```
 ssh <username>@<do_leased_ip>
 ```
+
+If accessing via this, you'll need to get the IP address of the new
+instance, and also configure your SSH client to use the private key
+that corresponds to the public key set in the core users Chef's data bag.
 
 ## Help
 

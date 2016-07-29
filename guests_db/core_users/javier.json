@@ -1,0 +1,10 @@
+{
+    "id": "javier",
+    "uid": "1001",
+    "groups": [ "core-users" ],
+    "shell": "\/bin\/bash",
+    "comment": "Javier Alcázar",
+    "ssh_keys": [
+        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCrOPjwGmHTwQADjd8jx0Ay7dASo/1huemiTuVkkopnQA+baaijjnpmwo/lTlHKFE+h0in1Z1DhrwOqDpM17gewpqdFuIsrE3DUIH//WeNBwo50rWPOdTGVADjUwZrIEnYLsTKASD6i6fP0hGk/H52LrD8yvlNVG24cRfFJoIFUURtSe2e62oHFJosXmIhq1wnH79lyXk0bs14O+WZiOFP7Vl4n7kb+yqukNCthhApsAN+ce9wHv1KSgnmllvShZki1bUZzIfe6i6Jv1EUVNcb+ULBKV/CbBh9G+UdLUhc8sXc0yynkhC+zSy1pysmh+c1Oq8erVfd+Fbkw35E/JeBH"
+    ]
+}
