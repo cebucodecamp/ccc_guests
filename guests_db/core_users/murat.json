@@ -1,0 +1,11 @@
+
+{
+    "id": "murat",
+    "uid": "1002",
+    "groups": [ "core-users" ],
+    "shell": "\/bin\/bash",
+    "comment": "Murat Knecht",
+    "ssh_keys": [
+        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDTIak9ANw9U9HbsGo5IN0t3EOkCWMwvldj6wgWJFCAUMJlomA7ETufmQkZUqePotwkbdto6V3j4gtq1V9YCQowxfRFz27NJvN1Knwd5sh1B9pJRRG09SJt1yam3OloVDERfnXUhRG4YAcxt0B2Tamon8hQ6Gf7ptY4lViVK0k7JrsZDSspwi10fuZVl5PE/Ko8SUWYR6b28GbexEx43u7ntpCVcjYR7rFOfiwyff6v8FTuM8NbU1vndtDFQ0gWTcGNh79le3h7DrrwrhgLLcBCd4A5ID+tu9D38q7GRqIDhJwIK7pabglnoPxf0WQw+Ln8wrmCLn4IBpKa90TFCScJ"
+    ]
+}
